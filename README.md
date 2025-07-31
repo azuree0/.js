@@ -4,7 +4,7 @@ Typescript
 
 <img width="353" height="330" alt="Screenshot 2025-07-30 061051" src="https://github.com/user-attachments/assets/0e10a504-c8aa-4f4e-b063-ddfd7b642e90" />
 
-<br>
+<br><br>
 
 React
 
@@ -12,7 +12,7 @@ React
 
 <img width="567" height="651" alt="Screenshot 2025-07-31 055926" src="https://github.com/user-attachments/assets/55bd252d-524b-4f4d-a0a9-11cd3ecd556f" />
 
-<br>
+<br><br>
 
 Vite
 
